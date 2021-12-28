@@ -2,7 +2,7 @@
 
 
 ## Introduction
-Carpooling System is a project which is based on Computer Networking topics. It describes how a network works in the background that is not easily shown in a system. It talks about socket programming, networking protocols, sliding protols, packet tracing and such.
+Carpooling System is a project which is based on Computer Networking topics. It describes how a network works in the background that is not easily shown in a system. It talks about socket programming, networking protocols, sliding protocols, packet tracing and such.
 
 ## Platform Used
 For Socket Programming: <br />
