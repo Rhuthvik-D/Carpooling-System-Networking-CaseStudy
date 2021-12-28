@@ -35,7 +35,7 @@ Packet Tracing
 ## Important Attributes
 <ul>
   <li>The subnetting performed in the case study is not continuous as the sscale of the network considered is very small. The joining of employees is very indefinite. To maintain clarity in the division of IP addresses, continuous subnetting is being dodged.</li>
-  <li>Routers are assigned with class A IP addresses
+  <li>Routers are assigned with class A IP addresses<br />
       Remaining devices are assigned with class C IP addresses</li>
   <li>Nodes are being recorded. Refer the <a href = "https://github.com/Rhuthvik-D/Carpooling-System-Networking-Project/blob/main/Documentation/Carpooling%20Booking%20System.pdf">Documnetation</a></li>
   <li>Refer the <a href = "https://github.com/Rhuthvik-D/Carpooling-System-Networking-Project/tree/main/Sliding%20Window%20Protocol">Sliding Window Protocol</a> used</li>
